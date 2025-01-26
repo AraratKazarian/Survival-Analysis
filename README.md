@@ -33,14 +33,3 @@ Each model is evaluated and compared using various metrics such as **AIC**, **BI
 
 - **Jupyter Notebook**: Contains all code, detailed explanations for each modeling step, and analysis processes.
 - **Final Report**: A comprehensive report summarizing the methodology, results, and actionable insights derived from the CLV calculations.
-
-### Key Skills Demonstrated
-
-- **Parametric Modeling**: Implementation of various parametric distributions and model selection.
-- **Data Analysis**: Working with real-world telecommunication data to segment customers and calculate CLV.
-- **Machine Learning and Statistical Methods**: Application of statistical models to predict customer behavior and business outcomes.
-- **Data Visualization and Reporting**: Presenting findings in a clear, actionable format.
-
-### Conclusion
-
-This project provides a comprehensive approach to calculating **Customer Lifetime Value (CLV)** for a telecommunication company. By leveraging parametric models and analyzing different customer segments, the project helps uncover valuable insights that can guide strategic marketing decisions and improve overall business outcomes.
