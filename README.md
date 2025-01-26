@@ -34,8 +34,6 @@ Each model is evaluated and compared using various metrics such as **AIC**, **BI
 - **Jupyter Notebook**: Contains all code, detailed explanations for each modeling step, and analysis processes.
 - **Final Report**: A comprehensive report summarizing the methodology, results, and actionable insights derived from the CLV calculations.
 
----
-
 ### Key Skills Demonstrated
 
 - **Parametric Modeling**: Implementation of various parametric distributions and model selection.
@@ -46,21 +44,3 @@ Each model is evaluated and compared using various metrics such as **AIC**, **BI
 ### Conclusion
 
 This project provides a comprehensive approach to calculating **Customer Lifetime Value (CLV)** for a telecommunication company. By leveraging parametric models and analyzing different customer segments, the project helps uncover valuable insights that can guide strategic marketing decisions and improve overall business outcomes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The goal of this project is to create a CLV (customer lifetime value) model for a telecommunication company using parametric models. First, accelerated time failure (ATF) models are built using various distributions: Weibull, lognormal, loglogistic, exponential, and generalized gamma distributions. The models are then compared based on various metrics and the best model is selected as the final model to calculate CLV. Afterward, CLV is calculated per customer using the model. CLV is examined across different customer segments and conclusions are drawn from the analysis. The Jupyter Notebook file contains all the code and explanations for each step of the analysis, as well as the final report. Overall, the project provides a comprehensive approach to building a CLV model using parametric models and studying the analysis results.
